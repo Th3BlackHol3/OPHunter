@@ -31,17 +31,9 @@ $ Enter the Target IP: "Give Your Targeted IP or Host Here"
 $ python ophunter.py
 
 Output is:
-
- ██████╗ ██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗████████╗███████╗██████╗ 
-██╔═══██╗██╔══██╗██║  ██║██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
-██║   ██║██████╔╝███████║██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝
-██║   ██║██╔═══╝ ██╔══██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
-╚██████╔╝██║     ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
- ╚═════╝ ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-                                                                     
-Developed by Th3 BlackHol3
-https://twitter.com/Th3BlackHol3_
-
+<p align="center">
+  <img src="https://github.com/Th3BlackHol3/OPHunter/blob/main/op.png">
+</p>
 
 Enter the Target IP: 192.168.0.1
 Firing Gamma-Rays on Target: 192.168.0.1
