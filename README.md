@@ -30,6 +30,7 @@ $ Enter the Target IP: "Give Your Targeted IP or Host Here"
 
 $ python ophunter.py
 
+Outputs
 
  ██████╗ ██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗████████╗███████╗██████╗ 
 ██╔═══██╗██╔══██╗██║  ██║██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
