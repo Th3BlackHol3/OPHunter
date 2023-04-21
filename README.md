@@ -8,7 +8,7 @@
 
 OPHunter is a simple open port scanner that will help to find your target IPs' open ports. Thanks!
 
-Usage:
+# Usage:
 
 # On Linux:
 
